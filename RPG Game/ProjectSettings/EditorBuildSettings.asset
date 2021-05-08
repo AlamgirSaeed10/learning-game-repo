@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Prectice Game/Prectice Scene.unity
+    guid: e1f4c38805ed82c4280e7c39175dd0ee
+  - enabled: 1
+    path: Assets/Prectice Game/SecondScene.unity
+    guid: b2800ba9b8482b14e98f38bd34f7e886
   m_configObjects: {}
